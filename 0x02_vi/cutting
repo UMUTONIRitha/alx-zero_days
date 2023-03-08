@@ -1,0 +1,1 @@
+Vim has its own terminology for copying, cutting, and pasting. Copy is called yank (y), cut is called delete (d), and paste is called put (p).
